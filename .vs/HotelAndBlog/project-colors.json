@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a197db08-bb0a-41d2-b883-ee5b5cac2b79": {
+      "ProjectGuid": "a197db08-bb0a-41d2-b883-ee5b5cac2b79",
+      "DisplayName": "MiniBlog",
+      "ColorIndex": 0
+    },
+    "6e7d7f98-12c3-4a89-b598-e7a5ec336ec2": {
+      "ProjectGuid": "6e7d7f98-12c3-4a89-b598-e7a5ec336ec2",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
